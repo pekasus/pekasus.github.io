@@ -1,3 +1,23 @@
+body {
+  color: #404040;
+}
+
+.navbar {
+  padding: 15px;
+}
+.nav {
+  color: orange;
+  font-size: 18px;
+  text-decoration: none;
+  padding: 10px;
+}
+
 .current {
   color: green;
+  border-bottom: 3px dotted green;
+}
+
+.def {
+  color: DimGray;
+  background-color: WhiteSmoke;
 }
