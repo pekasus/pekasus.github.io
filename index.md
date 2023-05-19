@@ -36,5 +36,7 @@ the world of privacy-enabling tech. Let's do this!
 - **DeFi** 
 - **Logistics** 
 - **Wallet Apps** 
+- **Bridges**
+- **Infrastructure Tools**
 
 ## [Contact Us!](/contact.html)
