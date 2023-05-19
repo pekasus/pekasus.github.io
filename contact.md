@@ -10,4 +10,6 @@ If you'd like to join our Collective, send us an email at
 2. Why you are interested in blockchain development?
 3. Your answer to the riddle below.
 
-**Riddle:** [Insert riddle here]
+**Riddle:** "I am always present but never seen, highly valued but
+rarely acknowledged. I protect you without a shield, and can be 
+stolen but never touched. What am I?"
