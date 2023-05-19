@@ -2,6 +2,17 @@
 layout: default
 title: Opportunities
 ---
+# We're looking for a few good men, and women...
+The Decentralized Devs Collective is looking for passionate programmers
+who want to work on cool projects and build their resume by working 
+with a group of likeminded people.
+
+We're looking for people who are:
+- Intermediate to advanced programming skills.
+- Basic knowledge of blockchain programming.
+- Passionate about privacy.
+- Creative.
+
 # Are you familiar with these concepts?
 #### (Click on term for definition)
 <ol class="deflist">
