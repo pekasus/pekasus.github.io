@@ -31,4 +31,10 @@ the world of privacy-enabling tech. Let's do this!
 
 ## Areas of Interest
 
-| **Smart Contracts** | **dApps** | **DeFi** | **Logistics** | **Wallet Apps** |
+- **Smart Contracts** 
+- **dApps** 
+- **DeFi** 
+- **Logistics** 
+- **Wallet Apps** 
+
+## [Contact Us!](/contact.html)
