@@ -1,12 +1,16 @@
 body {
-  color: #404040;
+  color: #F0F7EE;
   max-width: 900px;
   margin-left: 50px;
-  background: #e6f0ff;
+  background: #272932;
 }
 
 p {
   text-align: justify;
+}
+
+a {
+    color: #A7333F;
 }
 
 .navbar {
@@ -14,21 +18,22 @@ p {
   margin-left: -35px;
 }
 .nav {
-  color: orange;
-  font-size: 18px;
+  color: #4D7EA8;
+  font-size: 1.75em;
   text-decoration: none;
   padding: 10px;
 }
 
 .current {
-  color: green;
-  border-bottom: 3px dotted green;
+  color: #A7333F;
+  border-bottom: 3px dotted #A7333F;
 }
 
 .def {
-  color: DimGray;
-  background-color: #b3d1ff;
+  color: #272932;;
+  background-color: #D3D0CB;
   text-align: justify;
+  padding: 10px;
 }
 
 .term {
@@ -40,6 +45,7 @@ p {
   list-style: none;
   padding-left: 2%;
 }
+
 .deflist li {
   margin: 1em 0;
   padding-top: .5em;
@@ -47,10 +53,15 @@ p {
   position: relative;
   counter-increment: inst;
 }
+
+.deflistOLD li::before {
+  background: rgba(255, 150, 0, 0.9);
+}
+
 .deflist li::before {
   content: counter(inst);
 
-  background: rgba(255, 150, 0, 0.35);
+  background: #4D7EA8;
   color: #fff;
 
   font-size: 1em;
